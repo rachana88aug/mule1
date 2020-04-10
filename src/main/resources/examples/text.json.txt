@@ -1,0 +1,27 @@
+[
+  {
+    "code": "rree0001",
+    "plane":{
+    "type": "Boeing 787",
+    "totalSeats": 200},
+    "destination": "LAX",
+    "departuredate": "2016-01-20T00:00:00",
+    "origin": "MUA",
+    "price": 541,
+    "emptyseats": 0,
+    "ID": 1
+    
+ },
+ {
+    "code": "eefd0123",
+    "plane":{
+    "Type": "Boeing 747",
+    "totalSeats": 345},
+    "destination": "CLE",
+    "departuredate": "2016-01-25T00:00:00",
+    "origin": "MUA",
+    "price": 300,
+    "emptyseats": 7,
+    "ID": 2 
+ }
+] 
